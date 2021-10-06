@@ -1,4 +1,6 @@
-export default {
+module.exports = {
+
+
     head: {
         titleTemplate: '%s Mango AI',
         meta: [
