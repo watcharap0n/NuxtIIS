@@ -1,0 +1,20 @@
+{
+  "name": "NuxtIIS",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "watcharap0n <wera.watcharapon@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@nuxtjs/axios": "^5.13.6",
+    "@nuxtjs/vuetify": "^1.12.1",
+    "bootstrap-vue": "^2.21.2",
+    "nuxt": "^2.15.8"
+  },
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "generate": "nuxt generate",
+    "start": "nuxt start",
+    "heroku-postbuild": "npm run build"
+  }
+}
