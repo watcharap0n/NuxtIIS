@@ -4,3 +4,4 @@ node_modules
 .gitattributes
 yarn.lock
 yarn-error.log
+dist
